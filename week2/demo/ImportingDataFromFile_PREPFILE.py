@@ -46,7 +46,7 @@ with open("week2/demo/example.csv") as csvfile:
     for rec in file:
 
         #print(rec)
-        print(f"{rec[0]} \t{rec[1]} \t${float(rec[2]):10.2f}")
+        print(f"{rec[0]:10} \t{rec[1]:3} \t${float(rec[2]):10.2f}")
         
 
         #update record count
