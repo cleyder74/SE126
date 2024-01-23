@@ -64,7 +64,7 @@ print(f'\n{total_records} records were processed.')
 
 print(f'There are {over} rooms that are over the limit, and {overnum} people will have to be put on a wait list.')
 
-print("\nPress any any ket to quit....")
+print("\nPress any any key to quit....")
 quit()
 
     
