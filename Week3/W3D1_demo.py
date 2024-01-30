@@ -5,7 +5,7 @@ import csv
 #total counters for records
 total_records = 0
 
-#cretew some lists
+#create new some lists
 comp_type_list = []
 manu_list = []
 processor_list = []
