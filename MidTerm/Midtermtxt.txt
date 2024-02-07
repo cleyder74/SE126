@@ -1,0 +1,24 @@
+Blue Eyes White Dragon,3000,3500,8,Dragon
+Red Eyes Black Dragon,2400,2000,7,dragon
+Dark Magician,2500,2100,7,Spellcaster
+Skull Dragon,3200,2500,9,Dragon
+Barrel Dragon,2600,2200,7,Dragon
+Armored Zombie,1500,0,3,Zombie
+Armored Lizard,1500,1200,4,Reptile
+Black Luster Soldier,3000,2500,8,Warrior
+Blue-Eyes Ultimate Dragon,4500,3800,12,Dragon
+Bickuribox,2300,2000,7,Fiend
+Celtic Guardian,1400,1200,4,Warrior
+Crawling Dragon,1600,1400,5,Dragon
+Curse Of Dragon,2000,1500,5,Dragon
+Dark Chimera,1610,1460,5,Fiend
+Dragon Master Knight,5000,5000,12,Dragon
+Exodia The Forbidden One,1000,1000,3,Spellcaster
+Flame Swordsman,1800,1600,5,Warrior
+Gaia the Dragon Champion,2600,2100,7,Dragon
+Harpie Lady Sisters,1950,2100,6,Winged Beast
+labyrinth Tank,2400,2400,7,Machine
+King of Yamimakai,2000,1530,5,Fiend
+Red Eyes Black Metal Dragon,2800,2400,8,Dragon
+Summoned Skull,2500,1200,6,Fiend
+

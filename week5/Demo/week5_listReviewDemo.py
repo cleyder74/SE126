@@ -17,7 +17,7 @@ def menu():
 
     choice = int(input("Please enter your selecton: "))
 
-    while choice < 0 or choice > 4:
+    while int(choice) < 0 or int(choice) > 4:
 
         print("**ERROR**ERROR**")
         choice = (input("Please enter your selecton: "))
