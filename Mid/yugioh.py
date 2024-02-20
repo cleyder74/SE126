@@ -106,10 +106,10 @@ def duel(): #Main game function
      if play == "n":
           end = input("\n\tReturn to main menu? (y/n): ")
 
-          if end == "y":
-               return
-          elif end == "n":
+          if end == "n":
                duel()
+          elif end == "y":
+               menu()
           else:
                print("\nNot a valid choice, please try again")
      
@@ -129,7 +129,7 @@ def duel(): #Main game function
       #Displays second monster along with its stats
       print(f"\n\t{mon2} | Attack: {atk[index2]} | Defense: {defe[index2]} | Type: {typ[index2]} | Level: {lvl[index2]} - will help you out.")
          
-      if atk[index2] >= 3000:
+      if atk[index2] >= 3000 and atk[index2] < 3999:
             print("\n\tThey're a strong one!")
          
       elif atk[index2] >= 4000:
@@ -162,7 +162,7 @@ def duel(): #Main game function
       play = input("\nExit Game?")
       
       if play == "y":
-           menu()
+           return
       elif play == "n":
            duel()
       else:#In case of an error
